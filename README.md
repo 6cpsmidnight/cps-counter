@@ -1,2 +1,1 @@
-# personal-cps-counter
- A cps counter.
+# CPS Counter
