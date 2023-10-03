@@ -5,7 +5,7 @@ const secsDisp = document.getElementById("secsDisp");
 
 let clicks = 0;
 let dS = 0;
-const dSLimit = 100;
+const dSLimit = 10;
 let cPS = 0;
 let pastCPS = 0;
 
