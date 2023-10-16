@@ -1,1 +1,1 @@
-# CPS Counter
+# [CPS Counter](time.eaganfarlin.com)
